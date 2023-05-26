@@ -1,0 +1,1 @@
+{"2439d13e200681a70d7598d1a04fc64c":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"42dbb8d45067e4ea","reportUrl":"https://sadia-selise.github.io/allure-report-gh-page/2//#testresult/42dbb8d45067e4ea","status":"passed","time":{"start":1685111670100,"stop":1685111693364,"duration":23264}}]}}
